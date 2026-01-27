@@ -1,0 +1,33 @@
+ Threat Domains
+With organizations facing an ever-growing number of cyber threats, it is critical that they have robust security solutions in place. But in order to protect themselves, organizations first need to know what vulnerabilities exist within their threat domains. A ‘threat domain’ is considered to be an area of control, authority or protection that attackers can exploit to gain access to a system.
+
+There are many ways that attackers can uncover vulnerabilities and exploit systems within a domain.
+
+Attackers can exploit systems within a domain through:
+Direct, physical access to systems and networks
+B;luetooth or near-field communication devices
+Cloud-based applications
+
+
+Internal vs External Threats
+Threats can originate from both within and outside of an organization, with attackers seeking access to valuable sensitive information such as personnel records, intellectual property, and financial data.
+
+Internal threats are usually carried out by current or former employees and other contract partners who accidentally or intentionally mishandle confidential data or threaten the operations of servers or network infrastructure devices by connecting infected media or by accessing malicious emails or websites.
+
+The source of an external threat typically stems from amateur or skilled attackers who can exploit vulnerabilities in networked devices or can use social engineering techniques, such as trickery, to gain access to an organization’s internal resources.
+
+
+ User Threats and Vulnerabilities
+A user domain includes anyone with access to an organization’s information system, including employees, customers and contract partners. Users are often considered to be the weakest link in information security systems, posing a significant threat to the confidentiality, integrity and availability of an organization’s data.
+
+
+Threats to Devices
+A red speech bubble with a skull coming out of a laptop screen. A hand with a pair of eyes on it is reaching for the skull.
+Any devices left powered on and unattended pose the risk of someone gaining unauthorized access to network resources.
+Downloading files, photos, music or videos from unreliable sources could lead to the execution of malicious code on devices.
+Cybercriminals often exploit security vulnerabilities within software installed on an organization’s devices to launch an attack.
+An organization’s information security teams must try to keep up to date with the daily discovery of new viruses, worms and other malware that pose a threat to their devices.
+A USB stick
+Users who insert unauthorized USB drives, CDs or DVDs run the risk of introducing malware, or compromising data stored on their device.
+Policies are in place to protect an organization’s IT infrastructure. A user can face serious consequences for purposefully violating such policies.
+Using outdated hardware or software makes an organization’s systems and data more vulnerable to attack.
