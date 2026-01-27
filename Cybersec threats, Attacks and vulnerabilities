@@ -1,0 +1,43 @@
+Threats to the Local Area Network
+The local area network (LAN) is a collection of devices, typically in the same geographic area, connected by cables (wired) or airwaves (wireless).
+
+Because users can access an organization’s systems, applications and data from the LAN domain, it is critical that it has strong security and stringent access controls.
+
+Select the image to reveal some common threats posed to the LAN.
+
+
+
+touch_app
+Examples of threats to the LAN include:
+
+Unauthorized access to wiring closets, data centers and computer rooms.
+Unauthorized access to systems, applications and data.
+Network operating system or software vulnerabilities and updates.
+Rogue users gaining unauthorized access to wireless networks.
+Exploits of data in transit.
+Having LAN servers with different hardware or operating systems makes managing and troubleshooting them more difficult.
+Unauthorized network probing and port scanning.
+Misconfigured firewalls.
+ 
+
+
+replay
+1.1.11 Threats to the Private Cloud
+A cloud in the centre of four icons: a desktop, a router with a wireless signal, a server and a laptop
+The private cloud domain includes any private servers, resources and IT infrastructure available to members of a single organization via the Internet. While many organizations feel that their data is safer in a private cloud, this domain still poses significant security threats, including:
+
+Unauthorized network probing and port scanning.
+Unauthorized access to resources.
+Router, firewall or network device operating system or software vulnerabilities.
+Router, firewall or network device configuration errors.
+Remote users accessing an organization’s infrastructure and downloading sensitive data.
+1.1.12 Threats to the Public Cloud
+Where a private cloud domain hosts computing resources for a single organization, the public cloud domain is the entirety of computing services hosted by a cloud, service or Internet provider that are available to the public and shared across organizations.
+
+There are three models of public cloud services that organizations may choose to use.
+
+
+A smartphoneA serverA desktop and modem
+chevron_right
+Software as a Service (SaaS)
+This is a subscription-based model that provides organizations with software that is centrally hosted and accessed by users via a web browser, app or other software. In other words, this is software not stored locally but in the cloud
