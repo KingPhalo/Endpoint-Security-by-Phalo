@@ -1,0 +1,59 @@
+The application domain includes all of the critical systems, applications and data used by an organization to support operations. Increasingly, organizations are moving applications such as email, security monitoring and database management to the public cloud.
+
+Common threats to applications include:
+
+Someone gaining unauthorized access to data centers, computer rooms, wiring closets or systems.
+Server downtime during maintenance periods.
+Network operating system software vulnerabilities.
+Data loss.
+Client-server or web application development vulnerabilities.
+
+Software vulnerabilities occur as a result of programming mistakes, protocol vulnerabilities or system misconfigurations. Cybercriminals seek to take advantage of such vulnerabilities and are becoming increasingly sophisticated in their attack methods.
+
+ 
+
+A hacker icon with a yellow triangle and exclamation mark on the left and a bug on the right
+An advanced persistent threat (APT) is a continuous attack that uses elaborate espionage tactics involving multiple actors and/or sophisticated malware to gain access to and analyze a target’s network.
+Attackers operate under the radar and remain undetected for a long period of time, with potentially devastating consequences. APTs typically target governments and high-level organizations and are usually well-orchestrated and well-funded.
+
+As the name suggests, algorithm attacks take advantage of algorithms in a piece of legitimate software to generate unintended behaviors. For example, algorithms used to track and report how much energy a computer consumes can be used to select targets or trigger false alerts. They can also disable a computer by forcing it to use up all its RAM or by overworking its central processing unit (CPU).
+
+A skull and cross bones in the center of a process circle. Three dark blue network points feed into the circle and come out the other side as red with Xs at the end
+
+
+Backdoors and Rootkits
+Cybercriminals also use many different types of malicious software (known as malware) to carry out their attacks.
+
+
+Backdoor programs, such as Netbus and Back Orifice, are used by cybercriminals to gain unauthorized access to a system by bypassing the normal authentication procedures.
+
+Cybercriminals typically have authorized users unknowingly run a remote administrative tool program (RAT) on their machine to install a backdoor that gives the criminal administrative control over a target computer. Backdoors grant cybercriminals continued access to a system, even if the organization has fixed the original vulnerability used to attack the system.
+
+Cybercriminals also use many different types of malicious software (known as malware) to carry out their attacks.
+
+Select the images to find out more about some common types.
+
+
+Backdoors
+
+
+Backdoor programs, such as Netbus and Back Orifice, are used by cybercriminals to gain unauthorized access to a system by bypassing the normal authentication procedures.
+
+Cybercriminals typically have authorized users unknowingly run a remote administrative tool program (RAT) on their machine to install a backdoor that gives the criminal administrative control over a target computer. Backdoors grant cybercriminals continued access to a system, even if the organization has fixed the original vulnerability used to attack the system.
+
+ 
+
+
+Rootkits
+
+This malware is designed to modify the operating system to create a backdoor, which attackers can then use to access the computer remotely.
+
+Most rootkits take advantage of software vulnerabilities to gain access to resources that normally shouldn’t be accessible (privilege escalation) and modify system files. 
+
+Rootkits can also modify system forensics and monitoring tools, making them very hard to detect. In most cases, a computer infected by a rootkit has to be wiped and any required software reinstalled.
+
+ 
+
+
+
+
