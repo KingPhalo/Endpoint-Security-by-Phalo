@@ -1,0 +1,27 @@
+Zero-Day Attacks
+A zero-day attack or zero-day threat exploits software vulnerabilities before they become known or before they are disclosed by the software vendor.
+
+A network is extremely vulnerable to attack between the time an exploit is discovered (zero hour) and the time it takes for the software vendor to develop and release a patch that fixes this exploit.
+
+Defending against such fast-moving attacks requires network security professionals to adopt a more sophisticated and holistic view of any network architecture.
+
+
+
+ Keyboard Logging
+A laptop with an eye icon on the screen
+As the name suggests, keyboard logging or keylogging refers to recording or logging every key struck on a computer’s keyboard.
+
+Cybercriminals log keystrokes via software installed on a computer system or through hardware devices that are physically attached to a computer, and configure the keylogger software to send the log file to the criminal. Because it has recorded all keystrokes, this log file can reveal usernames, passwords, websites visited and other sensitive information.
+
+Many anti-spyware suites can detect and remove unauthorized key loggers
+
+
+
+Defending Against Attacks
+A blue shield
+Organizations can take several steps to defend against various attacks. These include the following:
+
+Configure firewalls to remove any packets from outside the network that have addresses indicating that they originated from inside the network. 
+Ensure patches and upgrades are current.
+Distribute the workload across server systems.
+Network devices use Internet Control Message Protocol (ICMP) packets to send error and control messages, such as whether or not a device can communicate with another on the network. To prevent DoS and DDoS attacks, organizations can block external ICMP packets with their firewalls.
