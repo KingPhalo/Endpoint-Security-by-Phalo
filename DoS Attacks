@@ -1,0 +1,58 @@
+ Layer 2 Attacks
+Layer 2 refers to the data link layer in the Open Systems Interconnection (OSI) data communication model.
+
+This layer is used to move data across a linked physical network. IP addresses are mapped to each physical device address (also known as media access control (MAC) address) on the network, using a procedure called address resolution protocol (ARP). 
+
+In its simplest terms, the MAC address identifies the intended receiver of an IP address sent over the network, and ARP resolves IP addresses to MAC addresses for transmitting data. 
+
+Attackers often take advantage of vulnerabilities in this layer 2 security.
+
+
+
+Spoofing
+Spoofing, or poisoning, is a type of impersonation attack that takes advantage of a trusted relationship between two systems.
+
+MAC address spoofing occurs when an attacker disguises their device as a valid one on the network and can therefore bypass the authentication process. 
+ARP spoofing sends spoofed ARP messages across a LAN. This links an attacker’s MAC address to the IP address of an authorized device on the network.
+IP spoofing sends IP packets from a spoofed source address in order to disguise it.
+An arrow from a hacker icon labeled spoof points to a cloud icon. An arrow from a person icon labeled real  points to another cloud icon. An upward facing arrow joins the spoofed cloud icon to the real cloud icon which then feeds into a router with a wireless signal. This is labeled destination.
+A server is joined to four desktop icons and a laptop icon with a skull and crossbones on the screen
+MAC Flooding
+Devices on a network are connected via a network switch by using packet switching to receive and forward data to the destination device. MAC flooding compromises the data transmitted to a device. An attacker floods the network with fake MAC addresses, compromising the security of the network switch.
+
+ Man-in-the-Middle and Man-in-the-Mobile Attacks
+Attackers can intercept or modify communications between two devices to steal information from or to impersonate one of the devices.
+
+Select the images to find out more about these types of attacks.
+
+
+
+touch_app
+Man-in-the-Middle (MitM)
+A MitM attack happens when a cybercriminal takes control of a device without the user’s knowledge. With this level of access, an attacker can intercept, manipulate and relay false information between the sender and the intended destination.
+
+
+
+
+ttackers can intercept or modify communications between two devices to steal information from or to impersonate one of the devices.
+
+
+
+
+
+
+Man-in-the-Middle (MitM)
+A MitM attack happens when a cybercriminal takes control of a device without the user’s knowledge. With this level of access, an attacker can intercept, manipulate and relay false information between the sender and the intended destination.
+
+ 
+
+
+
+
+
+
+Man-in-the-Mobile (MitMo)
+A variation of man-in-the-middle, MitMo is a type of attack used to take control over a user’s mobile device. When infected, the mobile device is instructed to exfiltrate user-sensitive information and send it to the attackers.
+
+ZeuS is one example of a malware package with MitMo capabilities. It allows attackers to quietly capture two-step verification SMS messages sent to users.
+
