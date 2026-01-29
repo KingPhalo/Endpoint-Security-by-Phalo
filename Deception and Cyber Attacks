@@ -1,0 +1,41 @@
+Piggybacking or tailgating occurs when a criminal follows an authorized person to gain physical entry into a secure location or a restricted area. Criminals can achieve this by:
+
+Giving the appearance of being escorted into the facility by an authorized person.
+Joining and pretending to be part of a large crowd that enters the facility.
+Targeting an authorized person who is careless about the rules of the facility.
+One way of preventing this is to use two sets of doors. This is sometimes referred to as a mantrap and means individuals enter through an outer door, which must close before they can gain access through an inner door.
+
+
+Defending Against Deception
+Four open padlocks appear and dotted lines form around them in hexagons, the padlocks then close
+Organizations need to promote awareness of social engineering tactics and properly educate employees on prevention measures. Here are some top tips.
+
+Never disclose confidential information or credentials via email, chat, text messages, in person or over the phone to unknown parties.
+Resist the urge to click on enticing emails and web links.
+Be wary of uninitiated or automatic downloads.
+Establish and educate employees on key security policies.
+Encourage employees to take ownership of security issues.
+
+
+Cybercriminals use many different types of malicious software, or malware, to carry out attacks. Malware is any code that can be used to steal data, bypass access controls or cause harm to or compromise a system.
+
+
+
+ Logic Bombs
+A logic bomb is a malicious program that waits for a trigger, such as a specified date or database entry, to set off the malicious code. Until this trigger event happens, the logic bomb will remain inactive.
+
+Once activated, a logic bomb implements a malicious code that causes harm to a computer in various ways. It can sabotage database records, erase files and attack operating systems or applications. 
+
+Cybersecurity specialists have recently discovered logic bombs that attack and destroy the hardware components in a device or server, including the cooling fans, central processing unit (CPU), memory, hard drives and power supplies. The logic bomb overdrives these components until they overheat or fail.
+
+A lit bomb
+1.3.3 Ransomware
+A sack with a dollar sign on the front, secured with a padlock
+This malware is designed to hold a computer system or the data it contains captive until a payment is made.
+
+Ransomware usually works by encrypting your data so that you cannot access it. According to ransomware claims, once the ransom is paid via an untraceable payment system, the cybercriminal will supply a program that decrypts the files or send an unlock code — but in reality, many victims do not gain access to their data even after they have paid. 
+
+Some versions of ransomware can take advantage of specific system vulnerabilities to lock it down. Ransomware is often spread through phishing emails that encourage you to download a malicious attachment, or through a software vulnerability.
+
+1.3.4 Denial of Service Attacks
+Denial of service (DoS) attacks are a type of network attack that is relatively simple to conduct, even for an unskilled attacker. They are a major risk as they usually result in some sort of interruption to network services, causing a significant loss of time and money. Even operational technologies, hardware or software that controls physical devices or processes in buildings, factories or utility providers, are vulnerable to DoS attacks, which can cause a shutdown, in extreme circumstances.
