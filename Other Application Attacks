@@ -1,0 +1,81 @@
+Remote Code Executions
+Remote code execution allows a cybercriminal to take advantage of application vulnerabilities to execute any command with the privileges of the user running the application on the target device.
+
+Privilege escalation exploits a bug, design flaw or misconfiguration in an operating system or software application to gain access to resources that are normally restricted.
+
+Select the image to find out more about the Metasploit Project and this community’s white hat cybersecurity tools.
+
+
+
+touch_app
+The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing. Among the tools they have developed is the Metasploit Framework, which can be used for developing and executing exploit code against a remote target.
+
+Meterpreter, in particular, is a payload within Metasploit that allows users to take control of a target’s device by writing their own extensions and uploading these files into a running process on the device. These files are loaded and executed from memory, so they never involve the hard drive. This means that such files fly under the radar of antivirus detection.
+
+Meterpreter also has a module for controlling a remote system’s webcam. Once Meterpreter is installed on a target device, the Metasploit user can view and capture images from the target’s webcam.
+
+Remote Code Executions
+Remote code execution allows a cybercriminal to take advantage of application vulnerabilities to execute any command with the privileges of the user running the application on the target device.
+
+Privilege escalation exploits a bug, design flaw or misconfiguration in an operating system or software application to gain access to resources that are normally restricted.
+
+
+The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing. Among the tools they have developed is the Metasploit Framework, which can be used for developing and executing exploit code against a remote target.
+
+Meterpreter, in particular, is a payload within Metasploit that allows users to take control of a target’s device by writing their own extensions and uploading these files into a running process on the device. These files are loaded and executed from memory, so they never involve the hard drive. This means that such files fly under the radar of antivirus detection.
+
+Meterpreter also has a module for controlling a remote system’s webcam. Once Meterpreter is installed on a target device, the Metasploit user can view and capture images from the target’s webcam.
+
+
+
+
+
+Other Application Attacks
+Every piece of information that an attacker receives about a targeted system or application can be used as a valuable weapon for launching a dangerous attack.
+
+
+Cross-site request forgery (CSRF)
+CSRF describes the malicious exploit of a website where unauthorized commands are submitted from a user’s browser to a trusted web application.
+
+A malicious website can transmit such commands through specially-crafted image tags, hidden forms or JavaScript requests — all of which can work without the user’s knowledge.
+
+Race condition attack
+Also known as a time of check (TOC) or a time of use (TOU) attack, a race condition attack happens when a computing system that is designed to handle tasks in a specific sequence is forced to perform two or more operations simultaneously.
+
+For example, operating systems are made up of threads — the smallest sequence of program instructions required to carry out a process. When two or more threads access shared data and try to change it at the exact same time, a race condition attack occurs.
+
+Improper input handling attack
+ 
+
+Data inputted by a user that is not properly validated can affect the data flow of a program and cause critical vulnerabilities in systems and applications that result in buffer overflow or SQL injection attacks.
+
+Error handling attack
+ 
+
+Attackers can use error messages to extract specific information such as the hostnames of internal systems and directories or files that exist on a given web server — as well as database, table and field names that can be used to craft SQL injection attacks.
+
+
+
+
+
+Application programming interface (API) attack
+ 
+An API delivers a user response to a system and sends the system’s response back to the user. An API attack occurs when a cybercriminal abuses an API endpoint.
+
+
+Replay attack
+ 
+
+This describes a situation where a valid data transmission is maliciously or fraudulently repeated or delayed by an attacker, who intercepts, amends and resubmits the data to get the receiver to do whatever they want.
+
+Directory traversal attack
+ 
+
+Directory traversal occurs when an attacker is able to read files on the webserver outside of the directory of the website. An attacker can then use this information to download server configuration files containing sensitive information, potentially expose more server vulnerabilities or even take control of the server!
+
+
+Resource exhaustion attacks
+ 
+
+These attacks are computer security exploits that crash, hang or otherwise interfere with a targeted program or system. Rather than overwhelming network bandwidth like a DoS attack, resource exhaustion attacks overwhelm the hardware resources available on the target’s server instead.
+
