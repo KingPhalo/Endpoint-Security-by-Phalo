@@ -1,0 +1,24 @@
+Bluejacking and Bluesnarfing
+Due to the limited range of Bluetooth, an attacker must be within range of their target. Here are some ways that they can exploit a target’s device without their knowledge.
+
+
+
+Bluejacking uses wireless Bluetooth technology to send unauthorized messages or shocking images to another Bluetooth device.
+
+Bluesnarfing occurs when an attacker copies information, such as emails and contact lists, from a target’s device using a Bluetooth connection.
+
+Cross-Site Scripting
+Cross-site scripting (XSS) is a common vulnerability found in many web applications. This is how it works:
+
+Cybercriminals exploit the XSS vulnerability by injecting scripts containing malicious code into a web page.
+The web page is accessed by the victim, and the malicious scripts unknowingly pass to their browser. 
+The malicious script can access any cookies, session tokens or other sensitive information about the user, which is sent back to the cybercriminal.
+Armed with this information, the cybercriminal can impersonate the user.
+An attacker icon sends an email to a victim on a laptop. An arrow extends from the victim's laptop to a website icon which links back to the attacker icon.
+1.5.3 Code Injection
+Most modern websites use a database, such as a Structured Query Language (SQL) or an Extensible Markup Language (XML) database, to store and manage data. Injection attacks seek to exploit weaknesses in these databases.
+
+Buffer Overflow
+Buffers are memory areas allocated to an application. A buffer overflow occurs when data is written beyond the limits of a buffer. By changing data beyond the boundaries of a buffer, the application can access memory allocated to other processes. This can lead to a system crash or data compromise, or provide escalation of privileges.
+
+These memory flaws can also give attackers complete control over a target’s device. For example, an attacker can change the instructions of a vulnerable application while the program is loading in memory and, as a result, can install malware and access the internal network from the infected device.
