@@ -1,0 +1,43 @@
+Hacker vs Threat Actor
+As we know, “hacker” is a common term used to describe a threat actor. However, the term “hacker” has a variety of meanings, as follows:
+
+A clever programmer capable of developing new programs and coding changes to existing programs to make them more efficient.
+A network professional that uses sophisticated programming skills to ensure that networks are not vulnerable to attack.
+A person who tries to gain unauthorized access to devices on the internet.
+An individual who run programs to prevent or slow network access to a large number of users, or corrupt or wipe out data on servers.
+An attack vector is a path by which a threat actor can gain access to a server, host, or network. Attack vectors originate from inside or outside the corporate network, as shown in the figure. For example, threat actors may target a network through the internet, to disrupt network operations and create a denial of service (DoS) attack.
+
+External and Internal Threats
+The figure shows that there are White, Grey and Black Hat hackers. The White hat hacker is labeled 1, gray hat 2, and black hat 3.
+1
+2
+3
+Gray Hat HackersBlack Hat HackersWhite Hat Hackers
+As shown in the figure, the terms white hat hacker, black hat hacker, and grey hat hacker are often used to describe hackers.
+
+a.  White hat hackers are ethical hackers who use their programming skills for good, ethical, and legal purposes. They may perform network penetration tests in an attempt to compromise networks and systems by using their knowledge of computer security systems to discover network vulnerabilities. Security vulnerabilities are reported to developers and security personnel who attempt to fix the vulnerability before it can be exploited. Some organizations award prizes or bounties to white hat hackers when they provide information that helps to identify vulnerabilities.
+
+b.  Grey hat hackers are individuals who commit crimes and do arguably unethical things, but not for personal gain or to cause damage. An example would be someone who compromises a network without permission and then discloses the vulnerability publicly. Grey hat hackers may disclose a vulnerability to the affected organization after having compromised their network. This allows the organization to fix the problem.
+
+c.  Black hat hackers are unethical criminals who violate computer and network security for personal gain, or for malicious reasons, such as attacking networks. Black hat hackers exploit vulnerabilities to compromise computer and network systems.
+
+As shown in the figure, the terms white hat hacker, black hat hacker, and grey hat hacker are often used to describe hackers.
+
+a.  White hat hackers are ethical hackers who use their programming skills for good, ethical, and legal purposes. They may perform network penetration tests in an attempt to compromise networks and systems by using their knowledge of computer security systems to discover network vulnerabilities. Security vulnerabilities are reported to developers and security personnel who attempt to fix the vulnerability before it can be exploited. Some organizations award prizes or bounties to white hat hackers when they provide information that helps to identify vulnerabilities.
+
+b.  Grey hat hackers are individuals who commit crimes and do arguably unethical things, but not for personal gain or to cause damage. An example would be someone who compromises a network without permission and then discloses the vulnerability publicly. Grey hat hackers may disclose a vulnerability to the affected organization after having compromised their network. This allows the organization to fix the problem.
+
+c.  Black hat hackers are unethical criminals who violate computer and network security for personal gain, or for malicious reasons, such as attacking networks. Black hat hackers exploit vulnerabilities to compromise computer and network systems.
+
+Good or bad, hacking is an important aspect of network security. In this course, the term threat actor is used when referring to those individuals or groups that could be classified as gray or black hat hackers.
+
+2.2.3 Evolution of Threat Actors
+Hacking started in the 1960s with phone freaking, or phreaking, which refers to using various audio frequencies to manipulate phone systems. At that time, telephone switches used various tones, or tone dialing, to indicate different functions. Early threat actors realized that by mimicking a tone using a whistle, they could exploit the phone switches to make free long-distance calls.
+
+In the mid-1980s, computer dial-up modems were used to connect computers to networks. Threat actors wrote “war dialing” programs which dialed each telephone number in a given area in search of computers, bulletin board systems, and fax machines. When a phone number was found, password-cracking programs were used to gain access. Since then, general threat actor profiles and motives have changed quite a bit.
+
+
+Cybercriminals
+Cybercriminals are threat actors who are motivated to make money using any means necessary. While sometimes cybercriminals work independently, they are more often financed and sponsored by criminal organizations. It is estimated that globally, cybercriminals steal billions of dollars from consumers and businesses every year.
+
+Cybercriminals operate in an underground economy where they buy, sell, and trade exploits and tools. They also buy and sell the personal information and intellectual property that they steal from victims. Cybercriminals target small businesses and consumers, as well as large enterprises and industries
